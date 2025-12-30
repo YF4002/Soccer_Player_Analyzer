@@ -1,0 +1,12 @@
+name: Soccer_Players_Performance_Analyzer
+title: Soccer_Players_Performance_Analyzer
+username: yahaya-ffa
+account: yahaya-ffa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16360932
+bundleId: 11380953
+url: https://yahaya-ffa.shinyapps.io/Soccer_Players_Performance_Analyzer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
